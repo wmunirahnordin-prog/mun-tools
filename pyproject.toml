@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "honeypot"
+version = "0.1.0"
+description = "Honeypot question generator and AI answer scorer"
+requires-python = ">=3.10"
+
+[project.scripts]
+honeypot = "honeypot.cli:main"
