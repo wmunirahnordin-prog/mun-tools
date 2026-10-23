@@ -1,6 +1,11 @@
 # mun-tools
 
-Honeypot question generator and AI answer scorer — create questions where AI-generated answers are instantly flagged.
+Personal toolkit by Munirah Nordin — educator, finance academic, and builder.
+
+## What's here
+
+- **honeypot/** — Question generator and AI answer scorer. Create questions where AI-generated answers are instantly flagged.
+- **profile.json** — Structured profile data (experience, skills, education) for use in apps, CVs, and automation.
 
 ## Install
 

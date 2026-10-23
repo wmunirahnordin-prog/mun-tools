@@ -1,0 +1,162 @@
+{
+  "name": "Munirah Nordin",
+  "skills": {
+    "core": [
+      "Leadership",
+      "Coordination",
+      "Management",
+      "Communication",
+      "Presentation",
+      "Analytical Thinking",
+      "Organization",
+      "Diplomacy",
+      "Initiative",
+      "Interdepartmental Collaboration"
+    ],
+    "teaching": [
+      "Lesson Planning",
+      "Curriculum Development",
+      "Student Assessment & Feedback",
+      "Course Improvement",
+      "F2F & Online Teaching",
+      "Large Cohort Management (200-350 students)"
+    ],
+    "finance": [
+      "Discounted Cash Flow (DCF)",
+      "Relative Valuation Models",
+      "Dividend Discount Models (DDM)",
+      "Cost of Capital",
+      "Capital Structure",
+      "Asset Valuations",
+      "Risk & Return Analysis",
+      "Asia Pacific Capital Markets",
+      "Investment Strategy"
+    ],
+    "operations": [
+      "Budget Management",
+      "Recruitment & HR",
+      "Event Coordination",
+      "Stakeholder Communication",
+      "Fundraising",
+      "Investigation & Remediation"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Academic Staff",
+      "organization": "UNSW Sydney",
+      "timeline": "Aug 2022 – Present",
+      "type": "academic",
+      "highlights": [
+        "Teaches finance and integrated first-year courses",
+        "Teaching assistant — improvised and executed assessments for postgraduate courses",
+        "Managed assessment delivery across 200-350 students per cohort",
+        "Collaborated with different lecturers every term",
+        "Courses: Intermediate Business Finance, Asia Pacific Capital Market"
+      ],
+      "courses": [
+        {
+          "name": "Intermediate Business Finance",
+          "focus": [
+            "Financial valuation and decision-making",
+            "DCF, relative valuation, DDM methodologies",
+            "Financial risk and return dynamics",
+            "Cost of capital, capital structure, asset valuations"
+          ]
+        },
+        {
+          "name": "Asia Pacific Capital Market",
+          "focus": [
+            "Financial markets and institutions in the APAC region",
+            "Risk assessment and investment strategies",
+            "Facilitating student debates on APAC market topics"
+          ]
+        }
+      ]
+    },
+    {
+      "role": "Postgraduate Representative — Business School Academic Board",
+      "organization": "UNSW Sydney",
+      "timeline": "March 2022",
+      "type": "leadership",
+      "highlights": [
+        "Selected to represent the 2022 postgraduate cohort",
+        "Communicated findings and presented solutions to academic board members",
+        "Aligned student interests with broader organizational objectives"
+      ]
+    },
+    {
+      "role": "Co-host — Business Postgraduate Life Session & Virtual House Reveal",
+      "organization": "UNSW Sydney",
+      "timeline": "Feb 2022",
+      "type": "event",
+      "highlights": [
+        "Collaborated with UNSW Onboarding and Transition Team",
+        "Organized interactive games — achieved 15% increase in student engagement"
+      ]
+    },
+    {
+      "role": "Vice President of Administration — Graduate Students Association (GSA)",
+      "organization": "UNSW Sydney",
+      "timeline": "Nov 2021 – May 2022",
+      "type": "leadership",
+      "highlights": [
+        "Facilitated operations for a society of 20+ executives and managers",
+        "Drove interdepartmental collaboration and dynamic coordination"
+      ]
+    },
+    {
+      "role": "International School Teacher",
+      "organization": "International School (Malaysia)",
+      "timeline": "Jan 2017 – Sep 2020",
+      "type": "teaching",
+      "highlights": [
+        "Head of Department — managed lesson planning, resources, and a team of 3 teachers",
+        "Taught 120-150 students per semester",
+        "Presented to Board of Directors on exam results, syllabus recommendations",
+        "Communicated and guided parents on academic matters"
+      ],
+      "additional_roles": [
+        {
+          "title": "Extra-Curricular Coordinator",
+          "highlights": [
+            "Managed clubs, liaised with external coaches, collected weekly lesson plans",
+            "Collaborated with MAKNA (National Cancer Council Malaysia) — raised ~A$8K for cancer aid",
+            "Supervised annual ~A$10K extracurricular budget",
+            "Led recruitment of external coaches: interviews, contracts, performance assessments"
+          ]
+        },
+        {
+          "title": "Discipline Board Member",
+          "highlights": [
+            "Conducted investigations, interviewed students, identified root causes",
+            "Communicated with parents and presented findings at monthly BOD meetings"
+          ]
+        }
+      ]
+    },
+    {
+      "role": "Community Tutor (Volunteer)",
+      "organization": "Community Initiative (Malaysia)",
+      "timeline": "Oct – Dec 2016",
+      "type": "volunteer",
+      "highlights": [
+        "Ran free community English class post-graduation from UQ (BA IR & History)",
+        "Prepared materials, planned lessons, marketed the class",
+        "Taught students of various ages and backgrounds"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Postgraduate studies",
+      "institution": "UNSW Sydney",
+      "field": "Business/Finance"
+    },
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "University of Queensland (UQ)",
+      "field": "International Relations & History"
+    }
+  ]
+}
